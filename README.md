@@ -4,8 +4,8 @@
 </span>
 
 # Covinfo
-Our Project is a one stop for getting all the information about the Ongoing Pandemic COVID-19. We have made a made a minimalistic User Interface with
-many the features like the Latest Notifications and Updates, The total number of beds in urban and rural areas along with the state wise analysis of the same.
+Our Project is a one stop for getting all the information about the Ongoing Pandemic COVID-19. We have made a minimalistic User Interface with
+many features like the Latest Notifications and Updates, the total number of beds in urban and rural areas along with the state wise analysis of the same.
 We will also be having the information of the number of admissions and the number of beds in each of the medical colleges. We have included the Statistics
 in the form of charts to provide users, the ease of visualizing the relevant data. It would be showing the Number of Deceased Cases for any of the filtering
 options we provide. We have also included the Contact Information of each of the states. We have fetched the APIs and printed the data in a sortable format giving the
